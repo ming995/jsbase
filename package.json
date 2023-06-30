@@ -1,0 +1,9 @@
+{
+  "name": "jsbase",
+  "version": "1.0.0",
+  "description": "js",
+  "main": "index.js",
+  "repository": "https://github.com/ming995/jsbase.git",
+  "author": "insomniac <hymghost@gmail.com>",
+  "license": "MIT"
+}
