@@ -5,5 +5,10 @@
   "main": "index.js",
   "repository": "https://github.com/ming995/jsbase.git",
   "author": "insomniac <hymghost@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5"
+  }
 }
